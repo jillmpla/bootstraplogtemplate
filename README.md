@@ -10,9 +10,6 @@ A simple, customizable Bootstrap log template for classes or projects.
 
 <table style="width:100%">
   <tr>
-    <th>Tools Used:</th>
-  </tr>
-  <tr>
     <td>jQuery 3.4.1</td>
   </tr>
   <tr>
