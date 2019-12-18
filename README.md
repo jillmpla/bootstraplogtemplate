@@ -7,3 +7,20 @@ A simple, customizable Bootstrap log template for classes or projects.
   <li>Each page/log stands alone and includes a separate section for each week in a regular semester.</li>
   <li>Log is <i>responsive</i> for easy viewing on mobile, tablet, laptop, and desktop.</li>
 </ul>
+
+<table style="width:100%">
+  <tr>
+    <th>Tools Used:</th>
+  </tr>
+  <tr>
+    <td>jQuery 3.4.1</td>
+  </tr>
+  <tr>
+    <td>Bootstrap 4.1.1</td>
+  </tr>
+    <tr>
+    <td>CoreUI</td>
+  </tr>
+</table>
+  
+  <b>IDE Used:</b> <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a>
