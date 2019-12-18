@@ -8,6 +8,8 @@ A simple, customizable Bootstrap log template for classes or projects.
   <li>Log is <i>responsive</i> for easy viewing on mobile, tablet, laptop, and desktop.</li>
 </ul>
 
+***
+
 <table style="width:100%">
   <tr>
     <td>jQuery 3.4.1</td>
@@ -19,5 +21,7 @@ A simple, customizable Bootstrap log template for classes or projects.
     <td>CoreUI</td>
   </tr>
 </table>
+
+***
   
-  <b>IDE Used:</b> <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a>
+<b>IDE Used:</b> <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a>
