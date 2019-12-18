@@ -1,4 +1,4 @@
-# bootstraplogtemplate
+# Bootstrap Log Template
 A simple, customizable Bootstrap log template for classes or projects.
 
 Includes two classes, two navigation items. Many more classes or projects could be added to the top navigation bar.
