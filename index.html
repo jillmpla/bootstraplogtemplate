@@ -9,10 +9,54 @@
 
     <!-- CoreUI CSS -->
     <link rel="stylesheet" href="https://unpkg.com/@coreui/coreui/dist/css/coreui.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Oxygen|Source+Sans+Pro&display=swap" rel="stylesheet">
 
     <!-- CSS -->
     <style>
-        body {background-color: white;}
+        body {
+            background-color: white;
+        }
+        .hr-text {
+            line-height: 1em;
+            position: relative;
+            outline: 0;
+            border: 0;
+            color: black;
+            text-align: center;
+            height: 1.5em;
+            opacity: .5;
+        }
+        .hr-text::before {
+            content: '';
+            background: linear-gradient(to right, transparent, #818078, transparent);
+            position: absolute;
+            left: 0;
+            top: 50%;
+            width: 100%;
+            height: 1px;
+        }
+        .hr-text::after {
+            content: attr(data-content);
+            position: relative;
+            display: inline-block;
+            color: black;
+            padding: 0 .5em;
+            line-height: 1.5em;
+            color: #818078;
+            background-color: #fcfcfa;
+         }
+        h2 {
+            font-family: 'Oxygen', sans-serif;
+        }
+        .card .card-header {
+            font-family: 'Oxygen', sans-serif;
+            font-size:18px;
+        }
+        .card .card-text {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size:16px;
+        }
     </style>
 
     <!-- jQuery, Bootstrap, CoreUI -->
