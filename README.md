@@ -26,7 +26,7 @@ A simple, customizable Bootstrap log template for classes or projects.
     <td>Font Awesome 4.7.0</td>
   </tr>
   <tr>
-    <td>Google Font(s): Oxygen, Source Sans Pro</td>
+    <td>Google Font(s): <a href="https://fonts.google.com/specimen/Oxygen" target="_blank">Oxygen</a>, <a     href="https://fonts.google.com/specimen/Source+Sans+Pro" target="_blank">Source Sans Pro</a></td>
   </tr>
 </table>
 
