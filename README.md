@@ -19,8 +19,14 @@ A simple, customizable Bootstrap log template for classes or projects.
   <tr>
     <td>Bootstrap 4.1.1</td>
   </tr>
-    <tr>
+  <tr>
     <td>CoreUI</td>
+  </tr>
+  <tr>
+    <td>Font Awesome 4.7.0</td>
+  </tr>
+  <tr>
+    <td>Google Font(s): Oxygen, Source Sans Pro</td>
   </tr>
 </table>
 
