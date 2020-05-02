@@ -29,7 +29,3 @@ A responsive, customizable Bootstrap log template for classes or projects.
     <td>Google Fonts: <a href="https://fonts.google.com/specimen/Oxygen" target="_blank">Oxygen</a>, <a     href="https://fonts.google.com/specimen/Source+Sans+Pro" target="_blank">Source Sans Pro</a></td>
   </tr>
 </table>
-
-***
-  
-<b>IDE Used:</b> <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a>
