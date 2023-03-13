@@ -1,5 +1,5 @@
 # Bootstrap Log Template
-A responsive, customizable Bootstrap log template for classes or projects.
+A responsive, customizable <a href="https://jillplatts.com/bootstraplogtemplate/" target="_blank">Bootstrap log template</a> for classes or projects.
 
 <ul style="list-style-type:circle">
   <li>Includes two classes, two navigation items.</li>
